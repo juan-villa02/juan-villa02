@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏻‍🎓Senior Data Science and Engineering student at <br>University of California San Diego and <br>Universidad Carlos III of Madrid.<br><br>Passionate about deep learning and computer vision.<br><br>Excited to collaborate and work in new projects!
+👨🏻‍🎓Senior Data Science and Engineering student at University of California San Diego and Universidad Carlos III of Madrid.<br><br>Passionate about deep learning and computer vision.<br><br>Excited to collaborate and work in new projects!
 
 
 ## 🌐 Socials:
